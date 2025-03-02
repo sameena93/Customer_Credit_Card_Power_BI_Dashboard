@@ -4,6 +4,9 @@
 This project involves building interactive Power BI dashboards to analyze credit card transactions and customer data by joining two separate datasets. The goal is to extract meaningful insights into customer behavior and credit card usage patterns.
 
 ---
+!()
+
+---
 
 ### Key Features
 1. ***Data Integration:*** Merged credit card transaction data with customer demographic data.
