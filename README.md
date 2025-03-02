@@ -8,6 +8,10 @@ This project involves building interactive Power BI dashboards to analyze credit
 
 ---
 
+![cutomer insight](https://github.com/sameena93/Customer_Credit_Card_Power_BI_Dashboard/blob/main/static/customer_BI.jpg)
+
+---
+
 ### Key Features
 1. ***Data Integration:*** Merged credit card transaction data with customer demographic data.
 2. ***DAX Queries:*** Used DAX (Data Analysis Expressions) to create calculated columns and measures for deeper insights.
