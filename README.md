@@ -12,3 +12,16 @@ Dashboards Created:
 3. ***Customer Insights Dashboard*** – Provides key metrics on customer demographics, income,age group, education and segmentation.
 4. ***Credit Card Insights Dashboard*** – Analyzes transaction trends, payment behaviors, revenue, card details and interest earned.
 5. ***Data Cleaning & Transformation:*** Performed using Power Query to ensure data accuracy.
+
+---
+
+### Technologies Used
+1. ***Power BI*** – For visualization and dashboard creation.
+2. ***DAX (Data Analysis Expressions)*** – For calculated measures and custom aggregations.
+3. ***Power Query*** – For data transformation and cleaning.
+4. ***SQL*** – Used for data extraction and preprocessing.
+
+### How to Use
+1. Open the Power BI file (.pbix).
+2. Explore the Customer Insights Dashboard for customer-related trends.
+3. Navigate to the Credit Card Insights Dashboard for transaction patterns and risk analysis.
