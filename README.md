@@ -4,7 +4,7 @@
 This project involves building interactive Power BI dashboards to analyze credit card transactions and customer data by joining two separate datasets. The goal is to extract meaningful insights into customer behavior and credit card usage patterns.
 
 ---
-!(credit card)[https://github.com/sameena93/Customer_Credit_Card_Power_BI_Dashboard/blob/main/static/credit_card_pdf.jpg]
+![credit card](https://github.com/sameena93/Customer_Credit_Card_Power_BI_Dashboard/blob/main/static/credit_card_pdf.jpg)
 
 ---
 
